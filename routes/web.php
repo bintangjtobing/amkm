@@ -15,7 +15,7 @@ Route::get('/', 'homepageController@index');
 Route::get('/kategori-produk/{produk_id}', 'homepageController@shop1');
 Route::get('/kategori-item/{id}', 'homepageController@viewcategory');
 Route::get('/ajax-product/{itemId}', 'homepageController@quickview');
-Route::get('/dapatkan-penawaran/{itemId}', 'homepageController@penawaran');
+Route::get('/dapatkan-penawaran', 'homepageController@penawaran');
 Route::post('/kirim-penawaran', 'homepageController@kirimpenawaran');
 Route::post('/kirimpesan', 'homepageController@kirimpesan');
 Route::get('/about', 'homepageController@about');

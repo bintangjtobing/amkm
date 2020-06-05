@@ -68,23 +68,24 @@ class homepageController extends Controller
             ->get();
         return view('homepage.viewitem', ['item' => $item, 'itemkategori' => $itemkategori, 'kategori' => $kategori, 'kategoriProduk' => $kategoriProduk]);
     }
-    public function penawaran($itemId)
+    public function penawaran()
     {
-        $kategoriProduk = DB::table('produk')
-            ->select('produk.*')
-            ->orderBy('produk.created_at', 'DESC')
-            ->get();
-        $item = itemModel::find($itemId);
-        $itemkategori = DB::table('items')
-            ->where('items.itemId', '=', $itemId)
-            ->join('categoriesSparepart', 'categoriesSparepart.id', '=', 'items.kategori_id')
-            ->join('produk', 'produk.produk_id', '=', 'items.type_product')
-            ->select('items.*', 'categoriesSparepart.*')
-            ->get();
-        $kategori = DB::table('categoriesSparepart')
-            ->select('categoriesSparepart.*')
-            ->get();
-        return view('homepage.penawaran', ['item' => $item, 'itemkategori' => $itemkategori, 'kategori' => $kategori, 'kategoriProduk' => $kategoriProduk]);
+        // $kategoriProduk = DB::table('produk')
+        //     ->select('produk.*')
+        //     ->orderBy('produk.created_at', 'DESC')
+        //     ->get();
+        // $item = itemModel::find($itemId);
+        // $itemkategori = DB::table('items')
+        //     ->where('items.itemId', '=', $itemId)
+        //     ->join('categoriesSparepart', 'categoriesSparepart.id', '=', 'items.kategori_id')
+        //     ->join('produk', 'produk.produk_id', '=', 'items.type_product')
+        //     ->select('items.*', 'categoriesSparepart.*')
+        //     ->get();
+        // $kategori = DB::table('categoriesSparepart')
+        //     ->select('categoriesSparepart.*')
+        //     ->get();
+        // return view('homepage.penawaran', ['item' => $item, 'itemkategori' => $itemkategori, 'kategori' => $kategori, 'kategoriProduk' => $kategoriProduk]);
+        return view('homepage.penawaran');
     }
 
     public function kirimpenawaran(Request $request)

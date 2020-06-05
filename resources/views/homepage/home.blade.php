@@ -29,9 +29,9 @@
             <div class="post-entry-overlay">
                 <div class="post-entry-meta">
                     <div class="product-description">
-                        <div class="product-category">Women</div>
+                        <div class="product-category">Pulpen</div>
                         <div class="product-title">
-                            <h3><a href="#">Consume Tshirt</a></h3>
+                            <h3><a href="#">Standard</a></h3>
                         </div>
                         <div class="product-price"><ins>$39.00</ins>
                         </div>
@@ -54,9 +54,9 @@
             <div class="post-entry-overlay">
                 <div class="post-entry-meta">
                     <div class="product-description">
-                        <div class="product-category">Man</div>
+                        <div class="product-category">Kertas</div>
                         <div class="product-title">
-                            <h3><a href="#">Tshirt</a></h3>
+                            <h3><a href="#">Kertas A4/F4</a></h3>
                         </div>
                         <div class="product-price"><ins>$29.00</ins>
                         </div>
@@ -79,9 +79,9 @@
             <div class="post-entry-overlay">
                 <div class="post-entry-meta">
                     <div class="product-description">
-                        <div class="product-category">Women</div>
+                        <div class="product-category">Pulpen</div>
                         <div class="product-title">
-                            <h3><a href="#">Logo Tshirt</a></h3>
+                            <h3><a href="#">Logo Kertas A4/F4</a></h3>
                         </div>
                         <div class="product-price"><ins>$39.00</ins>
                         </div>
@@ -104,9 +104,9 @@
             <div class="post-entry-overlay">
                 <div class="post-entry-meta">
                     <div class="product-description">
-                        <div class="product-category">Women</div>
+                        <div class="product-category">Pulpen</div>
                         <div class="product-title">
-                            <h3><a href="#">Consume Tshirt</a></h3>
+                            <h3><a href="#">Standard</a></h3>
                         </div>
                         <div class="product-price"><ins>$39.00</ins>
                         </div>
@@ -129,9 +129,9 @@
             <div class="post-entry-overlay">
                 <div class="post-entry-meta">
                     <div class="product-description">
-                        <div class="product-category">Man</div>
+                        <div class="product-category">Kertas</div>
                         <div class="product-title">
-                            <h3><a href="#">Tshirt</a></h3>
+                            <h3><a href="#">Kertas A4/F4</a></h3>
                         </div>
                         <div class="product-price"><ins>$29.00</ins>
                         </div>
@@ -154,9 +154,9 @@
             <div class="post-entry-overlay">
                 <div class="post-entry-meta">
                     <div class="product-description">
-                        <div class="product-category">Women</div>
+                        <div class="product-category">Pulpen</div>
                         <div class="product-title">
-                            <h3><a href="#">Logo Tshirt</a></h3>
+                            <h3><a href="#">Logo Kertas A4/F4</a></h3>
                         </div>
                         <div class="product-price"><ins>$39.00</ins>
                         </div>
@@ -219,9 +219,9 @@
                             </div>
                         </div>
                         <div class="product-description">
-                            <div class="product-category">Women</div>
+                            <div class="product-category">Pulpen</div>
                             <div class="product-title">
-                                <h3><a href="#">Bolt Sweatshirt</a></h3>
+                                <h3><a href="#">Kertas A4/F4</a></h3>
                             </div>
                             <div class="product-price"><ins>$15.00</ins>
                             </div>
@@ -254,9 +254,9 @@
                             </div>
                         </div>
                         <div class="product-description">
-                            <div class="product-category">Women</div>
+                            <div class="product-category">Pulpen</div>
                             <div class="product-title">
-                                <h3><a href="#">Consume Tshirt</a></h3>
+                                <h3><a href="#">Standard</a></h3>
                             </div>
                             <div class="product-price"><ins>$39.00</ins>
                             </div>
@@ -290,9 +290,9 @@
                             </div>
                         </div>
                         <div class="product-description">
-                            <div class="product-category">Man</div>
+                            <div class="product-category">Kertas</div>
                             <div class="product-title">
-                                <h3><a href="#">Logo Tshirt</a></h3>
+                                <h3><a href="#">Logo Kertas A4/F4</a></h3>
                             </div>
                             <div class="product-price"><ins>$39.00</ins>
                             </div>
@@ -325,9 +325,9 @@
                             </div>
                         </div>
                         <div class="product-description">
-                            <div class="product-category">Women</div>
+                            <div class="product-category">Pulpen</div>
                             <div class="product-title">
-                                <h3><a href="#">Cotton Tshirt</a></h3>
+                                <h3><a href="#">Cotton Kertas A4/F4</a></h3>
                             </div>
                             <div class="product-price"><ins>$22.00</ins>
                             </div>
@@ -360,9 +360,9 @@
                             </div>
                         </div>
                         <div class="product-description">
-                            <div class="product-category">Man</div>
+                            <div class="product-category">Kertas</div>
                             <div class="product-title">
-                                <h3><a href="#">Grey Sweatshirt</a></h3>
+                                <h3><a href="#">Grey SweaKertas A4/F4</a></h3>
                             </div>
                             <div class="product-price"><ins>$39.00</ins>
                             </div>
@@ -395,9 +395,9 @@
                             </div>
                         </div>
                         <div class="product-description">
-                            <div class="product-category">Women</div>
+                            <div class="product-category">Pulpen</div>
                             <div class="product-title">
-                                <h3><a href="#">Pocket Tshirt</a></h3>
+                                <h3><a href="#">Pocket Kertas A4/F4</a></h3>
                             </div>
                             <div class="product-price">
                                 <del>$19.00</del><ins>$15.00</ins>
@@ -431,9 +431,9 @@
                             </div>
                         </div>
                         <div class="product-description">
-                            <div class="product-category">Man</div>
+                            <div class="product-category">Kertas</div>
                             <div class="product-title">
-                                <h3><a href="#">Dark Tshirt</a></h3>
+                                <h3><a href="#">Dark Kertas A4/F4</a></h3>
                             </div>
                             <div class="product-price"><ins>$26.00</ins>
                             </div>
@@ -468,9 +468,9 @@
                             </div>
                         </div>
                         <div class="product-description">
-                            <div class="product-category">Women</div>
+                            <div class="product-category">Pulpen</div>
                             <div class="product-title">
-                                <h3><a href="#">Nature Tshirt</a></h3>
+                                <h3><a href="#">Nature Kertas A4/F4</a></h3>
                             </div>
                             <div class="product-price">
                                 <del>$19.00</del><ins>$15.00</ins>

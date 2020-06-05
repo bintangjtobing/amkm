@@ -14,7 +14,7 @@ kasa nyamuk, blinds dan lain sebagainya.')
 @endsection
 @section('content')
 <section id="page-title"
-    data-bg-parallax="{!!asset('https://upload.wikimedia.org/wikipedia/commons/0/09/Channel_1_Israel_DSC0021.jpg')!!}">
+    data-bg-parallax="{!!url('https://upload.wikimedia.org/wikipedia/commons/0/09/Channel_1_Israel_DSC0021.jpg')!!}">
     <div class="bg-overlay"></div>
     <div class="container">
         <div class="page-title">
